@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-
+import 'Screens/editPage.dart';
+import 'Screens/fillDetails.dart';
 import 'Screens/homepage.dart';
+import 'Screens/showData.dart';
 
 void main(){
   runApp(MyApp());
@@ -14,7 +16,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/' : (context) => Homepage()
+        '/' : (context) => Homepage(),
+        '/fillDetails' : (context) => Filldetails(),
+        '/editPage' : (context) => EditPage(),
+        '/showData' : (context) => showData(),
       },
     );
   }
