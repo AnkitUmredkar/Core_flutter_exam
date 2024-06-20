@@ -17,3 +17,7 @@
 <div align="center">
   <img height="550" align="left" src="https://github.com/AnkitUmredkar/Core_flutter_exam/assets/149374001/04639465-7092-441c-8b5b-53e090f744f6"/>
 </div>
+
+<div align="center">
+<video height="550" src="https://github.com/AnkitUmredkar/Core_flutter_exam/assets/149374001/50bcd08d-6a2b-4d8f-a090-53458a0946b7"/>
+</div>
